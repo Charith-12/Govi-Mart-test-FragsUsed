@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Govi Mart</string>
+    <string name="govi_mart">Govi Mart</string>
+    <string name="search">Search</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="Role">
+        <item>Seller</item>
+        <item>Buyer</item>
+        <item>Transporter</item>
+        <item>Seller and Transporter</item>
+        <item>Buyer and Transporter</item>
+    </string-array>
+</resources>

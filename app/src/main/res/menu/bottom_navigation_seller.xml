@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:iconTint="#636161"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_feed"
+        android:icon="@drawable/activity"
+        android:title="Feed" />
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@drawable/ic_baseline_add_box_24"
+        android:iconTint="#636161"
+        android:title="Add" />
+    <item
+        android:id="@+id/nav_transport"
+        android:icon="@drawable/ic_baseline_drive_eta_24"
+        android:iconTint="#636161"
+        android:title="Transport" />
+
+</menu>

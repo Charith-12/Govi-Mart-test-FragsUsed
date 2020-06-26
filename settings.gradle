@@ -1,0 +1,2 @@
+rootProject.name='Govi Mart test'
+include ':app'

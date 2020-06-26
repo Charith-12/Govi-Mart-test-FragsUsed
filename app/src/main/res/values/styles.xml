@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="text">
+        <item name="android:layout_width">380dp</item>
+        <item name="android:layout_height">54dp</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:layout_marginEnd">10dp</item>
+        <item name="android:drawablePadding">?attr/dialogPreferredPadding</item>
+        <item name="android:drawableTint">@color/colorThirdLight</item>
+        <item name="android:drawingCacheQuality">high</item>
+        <item name="android:elevation">@android:dimen/thumbnail_height</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:outlineSpotShadowColor">@color/colorSecondary</item>
+        <item name="android:textAlignment">inherit</item>
+        <item name="android:textColor">@color/colorThird</item>
+        <item name="android:textColorHighlight">@color/colorPrimaryDark</item>
+        <item name="android:textColorLink">@color/colorPrimary</item>
+        <item name="android:textCursorDrawable">@color/colorSecondary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">normal</item>
+    </style>
+
+</resources>
