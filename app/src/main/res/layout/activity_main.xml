@@ -73,7 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#FAFAFA"
-            app:srcCompat="@drawable/ic_baseline_menu_24" />
+            app:srcCompat="@drawable/menu" />
 
         <ImageButton
             android:id="@+id/imageButton2"
@@ -81,7 +81,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#FAFAFA"
-            app:srcCompat="@drawable/message_square" />
+            app:srcCompat="@drawable/massage" />
 
         <ImageButton
             android:id="@+id/imageButton3"
@@ -89,7 +89,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#FAFAFA"
-            app:srcCompat="@drawable/ic_baseline_notifications_24" />
+            app:srcCompat="@drawable/notification" />
 
         <ImageButton
             android:id="@+id/imageButton4"
@@ -97,7 +97,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#FAFAFA"
-            app:srcCompat="@drawable/ic_baseline_account_circle_24" />
+            app:srcCompat="@drawable/profile" />
 
         <Space
             android:layout_width="0dp"

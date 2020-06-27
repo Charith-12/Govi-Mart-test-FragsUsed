@@ -3,21 +3,21 @@
 
     <item
         android:id="@+id/nav_home"
-        android:icon="@drawable/ic_baseline_home_24"
+        android:icon="@drawable/home"
         android:iconTint="#636161"
         android:title="Home" />
     <item
         android:id="@+id/nav_feed"
-        android:icon="@drawable/activity"
+        android:icon="@drawable/feed"
         android:title="Feed" />
     <item
         android:id="@+id/nav_add"
-        android:icon="@drawable/ic_baseline_add_box_24"
+        android:icon="@drawable/add_new"
         android:iconTint="#636161"
         android:title="Add" />
     <item
         android:id="@+id/nav_transport"
-        android:icon="@drawable/ic_baseline_drive_eta_24"
+        android:icon="@drawable/transport"
         android:iconTint="#636161"
         android:title="Transport" />
 
